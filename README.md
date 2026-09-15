@@ -48,13 +48,11 @@ Currently, I'm focused on strengthening my fundamentals in **Python, Data Struct
 ---
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayankcod&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankcod&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayankcod&theme=tokyo-night&hide_border=true" width="95%"/>
 </p>
-
 ## 🎯 Current Goal
 
 I'm currently working toward becoming a **strong Software / AI Engineer** by building a solid foundation rather than just collecting technologies.
