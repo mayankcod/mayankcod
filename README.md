@@ -87,10 +87,3 @@ If you're building something interesting, feel free to reach out!
 
 ---
 
-<p align="center">
-  <b>⚡ Keep building. Keep learning. Keep shipping.</b>
-</p>
-
-<p align="center">
-  <i>Made with curiosity & lots of debugging.</i> 🐛
-</p>
