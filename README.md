@@ -47,35 +47,21 @@ Currently, I'm focused on strengthening my fundamentals in **Python, Data Struct
 
 ---
 
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayankcod&theme=tokyo-night&hide_border=true" width="95%"/>
-</p>
 ## 🎯 Current Goal
 
-I'm currently working toward becoming a **strong Software / AI Engineer** by building a solid foundation rather than just collecting technologies.
+I'm currently working toward becoming a strong **Software / AI Engineer** by building a solid foundation rather than just collecting technologies.
 
-### My current roadmap:
+### 🚀 Current Focus
 
-```text
-Python
-   ↓
-Data Structures & Algorithms
-   ↓
-Computer Science Fundamentals
-   ↓
-Machine Learning
-   ↓
-AI Engineering
-   ↓
-Real-World Projects
-   ↓
-Internship / Software Engineering Role
-```
+- 🐍 Python & programming fundamentals
+- 🧠 Data Structures & Algorithms
+- 🤖 Artificial Intelligence & Machine Learning
+- 💻 Computer Science fundamentals
+- 🔨 Building real-world projects
+- 🌐 Full-Stack Development
+- ☁️ Deployment & Cloud
 
----
+> **Learn → Build → Break → Debug → Improve → Repeat.**
 
 ## 💡 My Philosophy
 
